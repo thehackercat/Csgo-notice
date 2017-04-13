@@ -10,9 +10,9 @@ import requests
 from wxbot import *
 
 # Steam API Key
-steam_key = '522EA4B8554541FE7E200AB913788726'
+steam_key = ''
 # poupou's steam id
-target_steam_id = '76561198148355194'
+target_steam_id = ''
 
 agent_list = [
     'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/537.36(KHTML, like Gecko) Chrome/54.0.2840.98 Safari/537.36',
